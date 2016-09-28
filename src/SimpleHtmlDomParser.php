@@ -1,7 +1,7 @@
 <?php namespace SimpleHtmlDomParser;
 
 require 'simplehtmldom_1_5'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
-class SimpleHtmlDom {
+class SimpleHtmlDomParser {
 	
 	/**
      * get html dom from file
