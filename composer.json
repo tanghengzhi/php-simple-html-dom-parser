@@ -1,0 +1,14 @@
+{
+    "name": "victor/php-simple-html-dom-parser",
+    "description": "Yet another copy of the PHP Simple HTML DOM Parser project.",
+    "require": {
+        "php": ">=5.3.3",
+        "ext-mbstring": "*"
+    },
+    "authors": [
+        {
+            "name": "Victor Tang",
+            "email": "victortang@lulutrip.com"
+        }
+    ]
+}
