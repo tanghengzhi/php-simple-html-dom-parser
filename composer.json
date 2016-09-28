@@ -10,5 +10,10 @@
             "name": "Victor Tang",
             "email": "victortang@lulutrip.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "SimpleHtmlDomParser\\": "src/"
+        }
+    }
 }

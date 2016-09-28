@@ -1,4 +1,4 @@
-<?php namespace Victor;
+<?php namespace SimpleHtmlDomParser;
 
 require 'simplehtmldom_1_5'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
 class SimpleHtmlDom {
