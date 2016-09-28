@@ -1,2 +1,4 @@
 # php-simple-html-dom-parser
-PHP Simple HTML DOM Parser
+Yet another copy of the PHP Simple HTML DOM Parser project.
+
+
